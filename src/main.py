@@ -17,4 +17,5 @@ def iniciar():
     analizador_fb = BruteForce(config_sistema)
     sia_uno = analizador_fb.aplicar_estrategia(condiciones, alcance, mecanismo)
     print(sia_uno)
+    
 
